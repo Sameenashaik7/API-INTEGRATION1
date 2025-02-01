@@ -24,6 +24,7 @@ The web page is designed to send requests to an API, handle the responses effect
 
 BEFORE INPUT :
 
+![Image](https://github.com/user-attachments/assets/8418bc85-8834-4c5e-bb4c-2460ffb99b46)
 
 AFTER INPUT :
 
